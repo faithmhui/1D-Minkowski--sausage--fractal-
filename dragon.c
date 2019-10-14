@@ -93,6 +93,8 @@ if (last==1)return 90;
   if(last==6)return 90;
   if(last==7)return -90;
 
+  return last;
+
 }
 
 /* print the curvilinier coordinate system */
